@@ -1,15 +1,5 @@
 
-<h1>《后端架构师技术图谱》</h1>
-
-![阿里巴巴集团长期内推，欢迎自荐，xingshaocheng@gmail.com](https://raw.githubusercontent.com/xingshaocheng/jobs/master/find-best-jobs_2.png)
-
-[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-[![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg?style=flat&label=Star)](https://github.com/xingshaocheng/architect-awesome/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xingshaocheng/architect-awesome.svg?style=flat&label=Fork)](https://github.com/xingshaocheng/architect-awesome/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/xingshaocheng/architect-awesome.svg?style=flat&label=Watch)](https://github.com/xingshaocheng/architect-awesome/watchers)
-
-**更新于20180624**
-
+# Skill Tree
 
 * [数据结构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
 	* [队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
@@ -98,10 +88,13 @@
 	* [持续集成(CI/CD)](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#持续集成cicd)
 		* [Jenkins](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#jenkins)
 		* [环境分离](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#环境分离)
-	* [自动化运维](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#自动化运维)
+	* [自动化运维](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#自动化运维) 
 		* [Ansible](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#ansible)
 		* [puppet](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#puppet)
 		* [chef](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#chef)
+		* [SaltStack](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#SaltStack)
+		* [CFEngine](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#CFEngine)
+		* [Terraform](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#Terraform)
 	* [测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#测试)
 		* [TDD 理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#tdd-理论)
 		* [单元测试](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#单元测试)
@@ -894,6 +887,9 @@ APM —  Application Performance Management
 
 ## 自动化运维
 
+search : infrastructure-as-code
+[Feature read](https://www.infoq.com/articles/virtual-panel-cfg-mgmt-tools-real-world)
+
 ### Ansible
 * [《Ansible中文权威指南》](http://www.ansible.com.cn/)
 * [《Ansible基础配置和企业级项目实用案例》](https://www.cnblogs.com/heiye123/articles/7855890.html)
@@ -903,6 +899,15 @@ APM —  Application Performance Management
 
 ### chef
 * [《Chef 的安装与使用》](https://www.ibm.com/developerworks/cn/cloud/library/1407_caomd_chef/)
+
+### SaltStack
+
+### CFEngine
+
+### Terraform
+
+[Terraform Selected](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
+
 
 ## 测试
 
